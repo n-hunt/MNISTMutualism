@@ -1,0 +1,16 @@
+name: mnistmutualism
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - numpy
+  - pytorch
+  - torchvision
+  - libjpeg-turbo
+  - libpng
+  - matplotlib
+  - seaborn
+  - jupyter
+  - tqdm
+  - pip

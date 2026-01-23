@@ -1,3 +1,2 @@
 # MNISTMutualism
 
-first commit
